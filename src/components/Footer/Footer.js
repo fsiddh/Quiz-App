@@ -8,10 +8,10 @@ const Footer = () => {
     >
       Made with ♥ by{" "}
       <a
-        href="https://github.com/kc0112"
+        href="https://github.com/fsiddh"
         style={{ cursor: "pointer" }}
       target="blank">
-        Khushi Chavada
+        Falansh Siddh
       </a>
     </div>
   );
