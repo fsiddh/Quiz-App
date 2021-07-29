@@ -8,6 +8,7 @@
 ## Key Learning 
 - Creating UI with MaterialUI
 - routing
+- fecthing data via axios
 - pagination
 - sending data between child and parent
 - hooks - useState,useRef,useEffect
