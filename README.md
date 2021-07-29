@@ -6,10 +6,9 @@
 - npm i @material-ui/icons
 
 ## Key Learning 
-- saving and retrieving contacts - local storage, json file via axios
+- Creating UI with MaterialUI
 - routing
 - pagination
-- unique id generation
 - sending data between child and parent
 - hooks - useState,useRef,useEffect
 
@@ -18,6 +17,5 @@
 
 ## References
 - https://material-ui.com/ 
-- https://flaviocopes.com/how-to-shuffle-array-javascript/ -> shuffling elements in js array
 - https://opentdb.com/api_config.php -> quiz questions
 
